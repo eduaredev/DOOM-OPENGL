@@ -1,1 +1,1 @@
-loadAssets
+loadAssets;
